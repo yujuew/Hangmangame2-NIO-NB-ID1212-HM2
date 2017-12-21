@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/ServerConnection.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Server/HangmanWord.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Common/Message.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/CmdLine.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/StartUp.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Server/ClientHandler.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/ClientUI.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/ServerMessageHandler.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Server/HangmanServer.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Common/MessageType.java</file>
+            <file>file:/C:/Users/Shine/Documents/NetBeansProjects/NIOhangman/src/Client/Command.java</file>
+        </group>
+    </open-files>
+</project-private>
